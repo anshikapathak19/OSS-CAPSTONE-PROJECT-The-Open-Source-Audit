@@ -47,7 +47,7 @@ chmod +x *.sh
 
 ---
 
-📁 OSS-CAPSTONE-PROJECT-The-Open-Source-Audit
+📁 OSS-Audit-24BAI10605
 │── README.md
 │── script1.sh
 │── script2.sh
@@ -55,6 +55,12 @@ chmod +x *.sh
 │── script4.sh
 │── script5.sh
 │── anshika.txt  (Generated Output)
+│──script1image.png
+│──script2.image.png
+│──script3.image.png
+│──script4image.png
+│──script5image.png
+
 
 
 
